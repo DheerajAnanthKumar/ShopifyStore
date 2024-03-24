@@ -18,4 +18,8 @@ public class ProductService {
     public List<Product> findAll() {
         return repository.findAll(Sort.by(Sort.Direction.DESC,"id"));
     }
+
+    public void save(Product product) {
+        repository.save(product);
+    }
 }
