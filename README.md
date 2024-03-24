@@ -41,7 +41,7 @@
 
 <h2 align="center">🙏 Credits</h2>
 
-<p align="center">This project was created as a part of learning Spring Boot and Spring MVC concepts. It is maintained by [Your Name or Organization]. Contributions are welcome!</p>
+<p align="center">This project was created as a part of learning Spring Boot and Spring MVC concepts. Contributions are welcome!</p>
 
 <h2 align="center">📄 License</h2>
 
