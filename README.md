@@ -42,7 +42,3 @@
 <h2 align="center">🙏 Credits</h2>
 
 <p align="center">This project was created as a part of learning Spring Boot and Spring MVC concepts. Contributions are welcome!</p>
-
-<h2 align="center">📄 License</h2>
-
-<p align="center">This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use and modify it for your own purposes.</p>
