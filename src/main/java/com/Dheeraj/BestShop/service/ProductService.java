@@ -6,6 +6,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class ProductService {
@@ -21,5 +22,13 @@ public class ProductService {
 
     public void save(Product product) {
         repository.save(product);
+    }
+
+    public Optional<Product> findById(int id) {
+        return repository.findById(id);
+    }
+
+    public void delete(Product product) {
+        repository.delete(product);
     }
 }
